@@ -8,4 +8,4 @@ Pre-Labs
 
 1. Setup Completed
 
-2. Pre-lab 2
+2. [Pre-lab 2](https://github.com/dlydb/IDD-Fa19-Lab2/blob/master/pre_lab.jpg)
