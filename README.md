@@ -12,10 +12,4 @@ Completed Labs for Ziyu(Ross) Liu
 
 5. [Ziyu's lab 5](//github.com/dlydb/IDD-Fa19-Lab5/blob/master/README.md)
 
-Pre-Labs
-
-1. Setup Completed
-
-2. [Pre-lab 2](https://github.com/dlydb/IDD-Fa19-Lab2/blob/master/pre_lab.jpg)
-
-3. Pre-lab 3 Idea generated and achieved at the last part of lab 3
+6. [Ziyu's lab 6](//github.com/dlydb/IDD-Fa19-Lab6)
