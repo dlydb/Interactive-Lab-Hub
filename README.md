@@ -13,3 +13,5 @@ Completed Labs for Ziyu(Ross) Liu
 5. [Ziyu's lab 5](//github.com/dlydb/IDD-Fa19-Lab5/blob/master/README.md)
 
 6. [Ziyu's lab 6](//github.com/dlydb/IDD-Fa19-Lab6)
+
+7. [Ziyu's lab 7](//github.com/dlydb/IDD-Fa19-Lab7)
